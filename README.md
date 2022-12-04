@@ -1,4 +1,6 @@
-# github.com/swissknife/circle-go
+# CircleCI API Go SDK
+
+The CircleCI API Go SDK is a Golang package for accessing the resources that make up the [CircleCI API V2](https://circleci.com/docs/api/v2/index.html).
 
 <!-- Start SDK Installation -->
 ## SDK Installation
