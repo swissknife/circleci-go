@@ -1,0 +1,6 @@
+go:
+  packagename: github.com/swissknife/circle-go
+  version: 2.0.0
+# baseserverurl optional, if not specified it will use the server URL from the OpenAPI spec 
+# this can also be provided via the --baseurl flag when calling the command line
+baseserverurl: https://circleci.com/api/v2/
